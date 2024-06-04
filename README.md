@@ -16,15 +16,18 @@ EPD Emulator for simulating EPD (E-Paper Display) screens, useful for developmen
 To use the EPD Emulator, you need to have Python installed on your system. Clone this repository to your local machine, and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/epd-emulator.git
+git clone https://github.com/infinition/EPD-Emulator.git
 cd epd-emulator
 pip install -r requirements.txt
 
 
 ## Usage
-To start the emulator, run the epdemulator.py script. You can specify the configuration file, display mode, and other options directly in the script.
+To start using the emulator, you have to call it from another python file.
+I have created a demo file to illustrate how to use it. (waveshare_emulator demo.py)
 
-python epdemulator.py
+Run the waveshare_emulator demo.py script. You can specify the EPD type, color mode , rotation mode, TKINTER or flask and other options directly in the script.
+
+python waveshare_emulator demo.py
 
 For a demonstration of the emulator’s capabilities, run the waveshare_emulator_demo.py script.
 
