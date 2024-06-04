@@ -1,7 +1,7 @@
 # EPD-Emulator
 EPD Emulator for simulating EPD (E-Paper Display) screens, useful for development and testing purposes. It supports both Tkinter and Flask for display rendering, and it can emulate color as well as monochrome displays.
-![image](https://github.com/infinition/EPD-Emulator/assets/37984399/31137417-095a-4bb9-9add-d4ce3def17ef)
-![image](https://github.com/infinition/EPD-Emulator/assets/37984399/cc39bbb1-f8e1-48ee-886a-6e511528aa5d)
+
+![image](https://github.com/infinition/EPD-Emulator/assets/37984399/6006d07a-e760-46c8-9ded-731a590179f0)
 
 
 ## Features
