@@ -1,0 +1,7 @@
+{
+    "name": "epd4in3",
+    "width": 800,
+    "height": 600,
+    "color": "white",
+    "text_color": "black"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "epd11in6",
+    "width": 960,
+    "height": 640,
+    "color": "white",
+    "text_color": "black"
+}

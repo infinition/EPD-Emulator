@@ -1,0 +1,7 @@
+{
+    "name": "epd7in5",
+    "width": 800,
+    "height": 480,
+    "color": "white",
+    "text_color": "black"
+}
