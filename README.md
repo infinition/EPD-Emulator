@@ -17,7 +17,7 @@ To use the EPD Emulator, you need to have Python installed on your system. Clone
 
 ```bash
 git clone https://github.com/infinition/EPD-Emulator.git
-cd epd-emulator
+cd Epd-Emulator
 pip install -r requirements.txt
 
 
