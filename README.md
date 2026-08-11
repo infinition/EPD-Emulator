@@ -1,3 +1,5 @@
+<img width="254" height="255" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/db43515f-72bc-4441-b814-c723415b3737" />
+
 # EPD-Emulator
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/infinition)
