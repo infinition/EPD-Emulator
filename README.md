@@ -1,4 +1,6 @@
-<img width="254" height="255" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/db43515f-72bc-4441-b814-c723415b3737" />
+<p align="center">
+  <img src=".github/EPD-Emulator.png" alt="EPD-Emulator icon" width="254" height="255" />
+</p>
 
 # EPD-Emulator
 
